@@ -22,21 +22,21 @@ Here we'll provide setup instructions for both options, just pick the one that y
 
 ## Register with IBM Cloud Functions
 
-[IBM's Cloud platform](https://console.bluemix.net/) provides a hosted serverless solution ([IBM Cloud Functions](https://console.bluemix.net/openwhisk/)) based upon Apache OpenWhisk.
+[IBM's Cloud platform](https://cloud.ibm.com/) provides a hosted serverless solution ([IBM Cloud Functions](https://cloud.ibm.com/functions) based upon Apache OpenWhisk.
 
 Here's how to get started…
 
-- Sign up for a free account @ [IBM Cloud](https://console.bluemix.net/)
+- Sign up for a free account @ [IBM Cloud](https://cloud.ibm.com)
 
-IBM Cloud comes with a [lite account](https://console.bluemix.net/registration/) that does not need credit card details to register. Lite accounts provide free access to certain platform services and do not expire after a limited time period.
+IBM Cloud comes with a [lite account](https://cloud.ibm.com/registration/) that does not need credit card details to register. Lite accounts provide free access to certain platform services and do not expire after a limited time period.
 
-**All IBM Cloud users get access to the [Free Tier for IBM Cloud Functions](https://console.ng.bluemix.net/openwhisk/learn/pricing). This includes 400,000 GB-seconds of serverless function compute time per month.**
+**All IBM Cloud users get access to the [Free Tier for IBM Cloud Functions](https://cloud.ibm.com/functions/learn/pricing). This includes 400,000 GB-seconds of serverless function compute time per month.**
 
 Additional execution time is charged at \$0.000017 per GB-second of execution, rounded to the nearest 100ms.
 
 ### Install the IBM Cloud CLI
 
-Following the [instructions on this page](https://console.bluemix.net/docs/cli/index.html#overview) to download and install the IBM Cloud CLI.
+Following the [instructions on this page](https://cloud.ibm.com/functions/learn/cli) to download and install the IBM Cloud CLI.
 
 _On Linux, you can run this command:_
 
